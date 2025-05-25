@@ -1,13 +1,12 @@
 @font-face {
     font-family: 'Splatoon1';
-    src: url('https://github.com/Splatube/filestore/raw/refs/heads/main/Splatfont.eot');
-    src: url('https://github.com/Splatube/filestore/raw/refs/heads/main/Splatfont.eot?#iefix') format('embedded-opentype'),
-        url('https://github.com/Splatube/filestore/raw/refs/heads/main/Splatfont.woff2') format('woff2'),
-        url('https://github.com/Splatube/filestore/raw/refs/heads/main/Splatfont.woff') format('woff'),
-        url('https://github.com/Splatube/filestore/raw/refs/heads/main/Splatfont.ttf') format('truetype'),
-        url('https://github.com/Splatube/filestore/raw/refs/heads/main/Splatfont.svg#Splatfont') format('svg');
+    src: url('https://splatube.github.io/filestore/fonts/splatoon1-font/Splatfont.eot');
+    src: url('https://splatube.github.io/filestore/fonts/splatoon1-font/Splatfont.eot?#iefix') format('embedded-opentype'),
+        url('https://splatube.github.io/filestore/fonts/splatoon1-font/Splatfont.woff2') format('woff2'),
+        url('https://splatube.github.io/filestore/fonts/splatoon1-font/Splatfont.woff') format('woff'),
+        url('https://splatube.github.io/filestore/fonts/splatoon1-font/Splatfont.ttf') format('truetype'),
+        url('https://splatube.github.io/filestore/fonts/splatoon1-font/Splatfont.svg#Splatfont') format('svg');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
-
